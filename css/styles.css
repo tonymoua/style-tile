@@ -3,13 +3,38 @@
 /***************/
 
 /* Color Palette */
+.color-1{
+    background: #3A3A3A;
+}
 
+.color-2{
+    background: black;
+}
 
+.color-3{
+    background: white;
+}
 /* Textures or Patterns*/
 
+.pattern-1{
+    background: url();
+}
+
+.pattern-2{
+    background: #AFBEE4;
+}
+
+.pattern-3{
+
+}
 
 /* Imagery */
 
+.imagery-1{
+    background: url(../img/yeezy-side-e1435140527450.jpg);
+    width: 638px;
+    height: 607px;
+}
 
 /* Icons */
 

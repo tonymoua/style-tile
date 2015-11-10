@@ -40,7 +40,13 @@
 
 
 /* Typography */
+h1{
+    font-family: nimbus-sans, sans-serif;
+}
 
+h2{
+    font-family: leitura-news, serif;
+}
 
 /* Forms */
 

@@ -30,12 +30,40 @@
 
 /* Imagery */
 
-.imagery-1{
+.imagery-2{
+    
 
 }
 
+
+
 /* Icons */
 
+/*Nav*/
+
+nav{
+    
+}
+
+li{
+    float: left;
+    padding: 1;
+    padding-right: 3em;
+    text-transform: uppercase;
+    letter-spacing: .05em;
+    font-weight: lighter;
+    color: #3a3a3a;
+}
+
+ul{
+    letter-spacing: 5px;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    
+    
+}
 
 /* Typography */
 h1{
@@ -46,6 +74,18 @@ h2{
     font-family: 'Open Sans', sans-serif;
 }
 
+h3{
+
+}
+
+p{
+    padding: 1;
+    padding-right: 3em;
+    text-transform: uppercase;
+    letter-spacing: .05em;
+    font-weight: lighter;
+    color: #3a3a3a;
+}
 /* Forms */
 
 
